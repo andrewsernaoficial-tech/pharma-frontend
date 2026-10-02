@@ -1,0 +1,8 @@
+/dist
+/out-tsc
+/node_modules
+/.angular
+/.vscode/*
+!/.vscode/extensions.json
+npm-debug.log
+.DS_Store
